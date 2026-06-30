@@ -5,7 +5,7 @@
 ## Как начать
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/hatai19/ai_builder_tutorial.git
 cd tutorial
 
 python3 -m venv venv
